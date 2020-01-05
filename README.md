@@ -1,7 +1,7 @@
 # .NET and C# Workshop
 
 ## Requirements
-* Laptop with Linux (preferred) or Windows (
+* Laptop with Linux (preferred) or Windows
 ### Linux requirements
 * Dowload .NET from the [website](https://dotnet.microsoft.com/download)
   * Be sure to download .NET Core 3.1

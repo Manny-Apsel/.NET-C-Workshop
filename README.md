@@ -8,10 +8,9 @@
   * Follow instructions of "Register Microsoft key and feed" and "Install the .NET Core SDK"
 * Download Visual Studio Code (VSCode) from the [website](https://code.visualstudio.com/)
   * If you use Ubuntu be sure to save the .deb file
-  * Open the .deb file and install VSCode
-  * Open VSCode and on the homepage on the right you'll see a box Customize
-  * Click on 'more' and on the left a window will open
-  * Search and add C# to the list of languages
+  * Install the deb file by following these [instructions](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
+  * Open VSCode and click on View->Extensions
+  * C# and Visual Studio IntelliCode extensions
 
 ### Windows requirements
 * Download and install [Visual Studio Community](https://visualstudio.microsoft.com/)

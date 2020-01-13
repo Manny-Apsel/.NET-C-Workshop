@@ -5,6 +5,7 @@
 ### Linux requirements
 * Dowload .NET from the [website](https://dotnet.microsoft.com/download)
   * Be sure to download .NET Core 3.1
+  * Be sure to follow the instructions for Ubuntu 18.04
   * Follow instructions of "Register Microsoft key and feed" and "Install the .NET Core SDK"
 * Download Visual Studio Code (VSCode) from the [website](https://code.visualstudio.com/)
   * If you use Ubuntu be sure to save the .deb file

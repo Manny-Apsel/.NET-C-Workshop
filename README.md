@@ -2,6 +2,7 @@
 
 ## Requirements
 * Laptop with Linux  or Windows (preferred)
+* If you have a better laptop at home please bring him because compilation takes a lot of resources
 ### Linux requirements
 * Dowload .NET from the [website](https://dotnet.microsoft.com/download)
   * Be sure to download .NET Core 3.1

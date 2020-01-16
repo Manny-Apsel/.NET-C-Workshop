@@ -22,8 +22,8 @@ Visual Studio Code
 ### Windows requirements
 * Download and install [Visual Studio Community](https://visualstudio.microsoft.com/)
 #### Instructions
-  * When downloading the above link you'll get Microsoft Visual Studio Installer; this is an UI friendly installer which lets you choose which components you want in your installer
-  * Download Visual Studio Community (and not Visual Studio Code)
-  * Once installed you'll have a program called Visual Studio Installer
+  * When hovering over 'Download Visual Studio' you'll see three options coming up. Click on Community 2019
+  * Download and install the executable
+  * You'll now have a program called Visual Studio Installer on your computer 
   * Open Visual Studio Installer
   * Choose for ".NET desktop development" component, download and install it

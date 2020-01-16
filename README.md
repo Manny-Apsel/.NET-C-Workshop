@@ -1,8 +1,9 @@
 # .NET and C# Workshop
 
 ## Requirements
-* Laptop with Linux  or Windows (preferred)
-* If you have a better laptop at home please bring him because compilation takes a lot of resources
+* Laptop with Windows (preferred) or Linux (preferred)
+* Because compilation takes a lot of memory I advise you to bring a laptop with better specs than the one BeCode provided
+
 ### Linux requirements
 * Dowload .NET from the [website](https://dotnet.microsoft.com/download)
 * Download Visual Studio Code (VSCode) from the [website](https://code.visualstudio.com/)

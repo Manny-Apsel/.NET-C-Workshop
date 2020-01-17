@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Workshop/1.0.0": {
+        "dependencies": {
+          "Exercises": "1.0.0"
+        },
+        "runtime": {
+          "Workshop.dll": {}
+        }
+      },
+      "Exercises/1.0.0": {
+        "runtime": {
+          "Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Workshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
